@@ -9,4 +9,6 @@ The application should:
   - Search and view all songs in the list contained in a specific album.
   - Delete a song from the list based on the title that the user will enter.
  
+ Comments language: Greek (Ελληνικά)
+ 
  Copyright © 2019 Ioannis Kyriazis - All Rights Reserved
